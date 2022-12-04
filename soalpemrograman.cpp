@@ -3,6 +3,7 @@
 #include <stdlib.h>
 main()
 {
+    //ori
     int tipe, hari, i, btambahan, jam, harga, b_over, overtime=0, makan=0, total;
     char jwb_sopir;
     system("cls");
